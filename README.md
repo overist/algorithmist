@@ -14,6 +14,7 @@ https://www.acmicpc.net/user/overist
 | Title               | Name                 | Count | Link                                                                                     |
 | ------------------- | -------------------- | ----- | ---------------------------------------------------------------------------------------- |
 | Implementation      | 구현                 | 0     | [바로가기](https://github.com/overist/algorithmist/tree/main/content/Implementation)     |
+| DataStructure       | 자료구조             | 1     | [바로가기](https://github.com/overist/algorithmist/tree/main/content/DataStructure)      |
 | Dynamic Programming | 동적계획법           | 1     | [바로가기](https://github.com/overist/algorithmist/tree/main/content/DynamicProgramming) |
 | Greedy              | 그리디               | 0     | [바로가기](https://github.com/overist/algorithmist/tree/main/content/Greedy)             |
 | Binary Search       | 이분 탐색            | 0     | [바로가기](https://github.com/overist/algorithmist/tree/main/content/BinarySearch)       |

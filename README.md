@@ -5,10 +5,9 @@
 
 ## baekjoon (BOJ)
 
-https://www.acmicpc.net/user/overist
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=overist" />
 
-my rank : Bronze 5
-solved problem : 8
+https://www.acmicpc.net/user/overist
 
 ## 🎮 Problem Solving (PS)
 
@@ -17,7 +16,6 @@ solved problem : 8
 | Implementation      | 구현                 | 0     | [바로가기](https://github.com/overist/algorithmist/tree/main/content/Implementation)     |
 | Dynamic Programming | 동적계획법           | 1     | [바로가기](https://github.com/overist/algorithmist/tree/main/content/DynamicProgramming) |
 | Greedy              | 그리디               | 0     | [바로가기](https://github.com/overist/algorithmist/tree/main/content/Greedy)             |
-| Sorting             | 정렬                 | 0     | [바로가기](https://github.com/overist/algorithmist/tree/main/content/Sorting)            |
 | Binary Search       | 이분 탐색            | 0     | [바로가기](https://github.com/overist/algorithmist/tree/main/content/BinarySearch)       |
 | BFS & DFS           | 너비 & 깊이 우선탐색 | 0     | [바로가기](https://github.com/overist/algorithmist/tree/main/content/BFSDFS)             |
 | Dijkstra            | 다익스트라           | 0     | [바로가기](https://github.com/overist/algorithmist/tree/main/content/Dijkstra)           |

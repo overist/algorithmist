@@ -15,7 +15,7 @@ solved problem : 8
 | Title               | Name                 | Count | Link                                                                                     |
 | ------------------- | -------------------- | ----- | ---------------------------------------------------------------------------------------- |
 | Implementation      | 구현                 | 0     | [바로가기](https://github.com/overist/algorithmist/tree/main/content/Implementation)     |
-| Dynamic Programming | 동적계획법           | 0     | [바로가기](https://github.com/overist/algorithmist/tree/main/content/DynamicProgramming) |
+| Dynamic Programming | 동적계획법           | 1     | [바로가기](https://github.com/overist/algorithmist/tree/main/content/DynamicProgramming) |
 | Greedy              | 그리디               | 0     | [바로가기](https://github.com/overist/algorithmist/tree/main/content/Greedy)             |
 | Sorting             | 정렬                 | 0     | [바로가기](https://github.com/overist/algorithmist/tree/main/content/Sorting)            |
 | Binary Search       | 이분 탐색            | 0     | [바로가기](https://github.com/overist/algorithmist/tree/main/content/BinarySearch)       |

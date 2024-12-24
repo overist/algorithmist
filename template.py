@@ -1,28 +1,29 @@
 import sys
 
-# Utilities ---------------------
-def ip(): return sys.stdin.readline().strip()
-def ips(): return sys.stdin.readline().strip().split()
-def mv(type): return map(type, ips())
-def lmv(type): return list(map(type, ips()))
-# -------------------------------
+# ** Utilities ---------------------
+def getElementList(input): return input.split(" ")
+def getNumberList(input): return [int(character) for character in input.split(" ")]
+def getLineList(input): return input.split("\n")
+def getMatrix(lineList): return [getNumberList(line) for line in lineList]
+# ----------------------------------
 
+# ** Function Block ----------------
 
-# Function Block ----------------
+# solution ---
+def solution(input):
+    lineList = getLineList(input)[1:]
+    matrix = getMatrix(lineList)
+    return matrix
+# ----------------------------------
 
-# -------------------------------
+# ** Main --------------------------
+# Preprocess input
+input = """1 3
+2 4 5
+3 4 7""" if sys.stdin.isatty() else sys.stdin.read().strip()
 
-
-# Please write the code below ---
-def main(input):
-    pass
-# -------------------------------
-
-
-# Ignore it ---------------------
-input = """
-"""
-
+# Run solution
 if __name__ == "__main__":
-    main(input)
-# -------------------------------
+    result = solution(input)
+    print(result)
+# ----------------------------------

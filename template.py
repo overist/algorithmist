@@ -1,8 +1,8 @@
 import sys
 
 # ** Utilities ---------------------
-def getElementList(input): return input.split(" ")
-def getNumberList(input): return [int(character) for character in input.split(" ")]
+def getElementList(input): return input.split()
+def getNumberList(input): return [int(character) for character in input.split()]
 def getLineList(input): return input.split("\n")
 def getMatrix(lineList): return [getNumberList(line) for line in lineList]
 # ----------------------------------
